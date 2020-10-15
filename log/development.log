@@ -898,3 +898,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 4ms (Views: 2.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for ::1 at 2020-10-15 13:45:47 -0700
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (1.9ms)
+Completed 200 OK in 17ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
